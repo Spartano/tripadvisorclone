@@ -1,22 +1,10 @@
 ## What is this?
 
-Just you wait folks!
+It's a Trip Advisor Clone, that allows logged in users to create and edit stores, recover passwords, leave comments and heart the stores they love.
 
-## Sample Data
+## Authentication
 
-To load sample data, run the following command in your terminal:
-
-```bash
-npm run sample
-```
-
-If you have previously loaded in this data, you can wipe your database 100% clean with:
-
-```bash
-npm run blowitallaway
-```
-
-That will populate 16 stores with 3 authors and 41 reviews. The logins for the authors are as follows:
+3 authors and 41 reviews. The logins for the authors are as follows:
 
 |Name|Email (login)|Password|
 |---|---|---|
